@@ -16,5 +16,3 @@ If you have `pip` installed:
 
 ## Running the tests
 - To run the test-suite, run `python tic-tac-toe.py --test`
-
-** If you make changes to this repository and push up your changes, don't forget to put your `.pyc`, `.DS_STORE`, and `venv` in your `.gitignore` **
